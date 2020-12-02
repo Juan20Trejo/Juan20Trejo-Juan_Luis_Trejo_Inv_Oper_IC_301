@@ -1,0 +1,8 @@
+<map id="gnuplotT" name="gnuplotT">
+<area shape="rect" id="node1" title="gnuplotT Sirve para graficar la ecuacion planteada, otorga los ejes x, y, imprime la ecuacion plantea..." alt="" coords="5,107,76,133"/>
+<area shape="rect" id="node2" href="$gnuplot__i_8c.html#a416bd48453ce016d6419f0f39fa5c625" title="Closes a gnuplot session previously opened by gnuplot_init()" alt="" coords="138,5,241,32"/>
+<area shape="rect" id="node3" href="$gnuplot__i_8c.html#a8c71c6b7a0d957fa9280bf4b984bf43a" title="Sends a command to an active gnuplot session." alt="" coords="313,95,409,121"/>
+<area shape="rect" id="node4" href="$gnuplot__i_8c.html#af38602f2bf3bf427b4c6af1e3cc6f371" title="Opens up a gnuplot session, ready to receive commands." alt="" coords="145,157,233,184"/>
+<area shape="rect" id="node5" href="$gnuplot__i_8c.html#a6e5c073fc8478c3ea121f308254b683a" title="Change the plotting style of a gnuplot session." alt="" coords="303,171,420,197"/>
+<area shape="rect" id="node6" href="$gnuplot__i_8c.html#a0622d593434823fccadcc4415db5fe2d" title="Plot a slope on a gnuplot session." alt="" coords="124,107,255,133"/>
+</map>
